@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Lodhi</h1>
-<h3 align="center">999+ DSA Q. | NQT✍2258.8 | 👨🏻‍💻Leetcode(max.1563) | 2⭐CodeChef(max.1421) | CodingNinjas(max.2304) | Java | C++ | OOPs | DBMS | SQL | B.Tech | Seeker</h3>
+<h3 align="center">999+ DSA Q. | NQT✍2258.8 | 👨🏻‍💻Leetcode(max.1563)📈 | 2⭐CodeChef(max.1421)📈 | CodingNinjas(max.2304)📈 | Java | C++ | OOPs | DBMS | SQL | B.Tech | Seeker</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
