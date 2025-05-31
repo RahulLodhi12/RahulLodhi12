@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullodhi12&label=Profile%20views&color=0e75b6&style=flat" alt="rahullodhi12" /> </p>
 
-- 🚀 Hi, I'm Rahul Lodhi, a passionate tech enthusiast driven by problem-solving and continuous learning. With a solid foundation in Core Java, C++, SQL, and frameworks like Angular and React, I’ve solved over 1600+ DSA problems across platforms like LeetCode, Coding Ninjas, and GeeksforGeeks.
+🚀 Hi, I'm Rahul Lodhi, a passionate tech enthusiast driven by problem-solving and continuous learning. With a solid foundation in Core Java, C++, SQL, and frameworks like Angular and React, I’ve solved over 1600+ DSA problems across platforms like LeetCode, Coding Ninjas, and GeeksforGeeks.
 
 = 🛠️ Tech Stack:
 - Languages: Java, C++, Python, SQL
@@ -14,7 +14,7 @@
 - Databases: MySQL
 - Core Subjects: DSA, OOPs, DBMS
 
-- 🎯 Key Highlights:
+= 🎯 Key Highlights:
 - 🧠 Scored 2258.8/3000 in Aptitude and 388.04/600 in Programming in the TCS National Qualifier Test
 - 💻 LeetCode Weekly Contest 375: Global Rank 2142 / 19,000+ participants
 - 🥇 Coding Ninjas Contest 109: All India Rank 111 / 3956 participants
