@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rahul Lodhi</h1>
-<h3 align="center">999+ DSA Q. | NQT✍2258.8 | 👨🏻‍💻Leetcode(max.1563)📈 | 2⭐CodeChef(max.1421)📈 | CodingNinjas(max.2304)📈 | Java | C++ | OOPs | DBMS | SQL | B.Tech | Seeker</h3>
+<h3 align="center">Core Java ♨️ | SpringBoot 🍃 | JDBC | UI | SQL ⛁ | Leetcode (Max. 1636) | 4⭐ GFG(Max. 1824,Top 6.22%) | 2⭐ CodeChef(Max. 1466) | CodingNinjas(Max. 2914) | 1600+ DSA Q. | Absolute Learner</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullodhi12&label=Profile%20views&color=0e75b6&style=flat" alt="rahullodhi12" /> </p>
 
-- 📝 National Qualifier Test: TCS **Secured 2258.8/3000 in Aptitude and 388.04/600 in Programming Section**
+🚀 Hi, I'm Rahul Lodhi, a passionate tech enthusiast driven by problem-solving and continuous learning. With a solid foundation in Core Java, C++, SQL, and frameworks like Angular and React, I’ve solved over 1600+ DSA problems across platforms like LeetCode, Coding Ninjas, and GeeksforGeeks.
 
-- 🌱 Contest Rating **Leetcode(max.1563) | CodingNinjas(max. 2040) | GeeksforGeeks(Institute Rank 101)**
+🛠️ Tech Stack:
+Languages: Java, C++, Python, SQL
+Frameworks: Angular, React
+Tools: VS Code, Postman, GitHub
+Databases: MySQL
+Core Subjects: DSA, OOPs, DBMS
 
-- 👨‍💻 Leetcode Weekly Contest **Secure Global Rank of 2142 out of 24K participants**
+🎯 Key Highlights:
+🧠 Scored 2258.8/3000 in Aptitude and 388.04/600 in Programming in the TCS National Qualifier Test
+💻 LeetCode Weekly Contest 375: Global Rank 2142 / 19,000+ participants
+🥇 Coding Ninjas Contest 109: All India Rank 111 / 3956 participants
+🌟 GeeksforGeeks: 4★ | Highest Rating: 1824 | Top 6.24% globally | Institute Rank: 57
+🧮 CodeChef: 2★ | Max Rating: 1466 | Global Rank: 35K+
+📚 Academics: Consistently secured 8+ CGPA in 3 semesters and 9+ CGPA in 1 semester
 
-- 🤝 CodingNinjas Weekly Contest **Secure All India Rank of 111/3956 in Contest 109**
-
-- 👨‍💻 Codolio [https://codolio.com/profile/3mHvhOSO](https://codolio.com/profile/3mHvhOSO)
-
-- 👨‍💻 CodeChef **2 star(Div 3) | Highest Rating: 1421 | Global Rank: 42052 | Country Rank: 38298**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AB9ouVQwHbcbGXRoEmyYryW2c-VCVZlX/view](https://drive.google.com/file/d/1AB9ouVQwHbcbGXRoEmyYryW2c-VCVZlX/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aTO1AtPZvSFoaNnyQUEq4WBL0Jupi-wW/view?usp=sharing)
 
 - ⚡ Fun fact **The fun starts with me!**
 
@@ -26,7 +31,7 @@
 <a href="https://linkedin.com/in/rahul-lodhi-6b8a2b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-lodhi-6b8a2b211/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahul_lodhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_lodhi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rahullodhi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahullodhi12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahullodhi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahullodhi12" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rahullodhi2412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahullodhi12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rahullodhimts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahullodhimts" height="30" width="40" /></a>
 </p>
 
