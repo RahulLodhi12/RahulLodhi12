@@ -5,22 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahullodhi12&label=Profile%20views&color=0e75b6&style=flat" alt="rahullodhi12" /> </p>
 
-🚀 Hi, I'm Rahul Lodhi, a passionate tech enthusiast driven by problem-solving and continuous learning. With a solid foundation in Core Java, C++, SQL, and frameworks like Angular and React, I’ve solved over 1600+ DSA problems across platforms like LeetCode, Coding Ninjas, and GeeksforGeeks.
+- 🚀 Hi, I'm Rahul Lodhi, a passionate tech enthusiast driven by problem-solving and continuous learning. With a solid foundation in Core Java, C++, SQL, and frameworks like Angular and React, I’ve solved over 1600+ DSA problems across platforms like LeetCode, Coding Ninjas, and GeeksforGeeks.
 
-🛠️ Tech Stack:
-Languages: Java, C++, Python, SQL
-Frameworks: Angular, React
-Tools: VS Code, Postman, GitHub
-Databases: MySQL
-Core Subjects: DSA, OOPs, DBMS
+= 🛠️ Tech Stack:
+- Languages: Java, C++, Python, SQL
+- Frameworks: Angular, React
+- Tools: VS Code, Postman, GitHub
+- Databases: MySQL
+- Core Subjects: DSA, OOPs, DBMS
 
-🎯 Key Highlights:
-🧠 Scored 2258.8/3000 in Aptitude and 388.04/600 in Programming in the TCS National Qualifier Test
-💻 LeetCode Weekly Contest 375: Global Rank 2142 / 19,000+ participants
-🥇 Coding Ninjas Contest 109: All India Rank 111 / 3956 participants
-🌟 GeeksforGeeks: 4★ | Highest Rating: 1824 | Top 6.24% globally | Institute Rank: 57
-🧮 CodeChef: 2★ | Max Rating: 1466 | Global Rank: 35K+
-📚 Academics: Consistently secured 8+ CGPA in 3 semesters and 9+ CGPA in 1 semester
+- 🎯 Key Highlights:
+- 🧠 Scored 2258.8/3000 in Aptitude and 388.04/600 in Programming in the TCS National Qualifier Test
+- 💻 LeetCode Weekly Contest 375: Global Rank 2142 / 19,000+ participants
+- 🥇 Coding Ninjas Contest 109: All India Rank 111 / 3956 participants
+- 🌟 GeeksforGeeks: 4★ | Highest Rating: 1824 | Top 6.24% globally | Institute Rank: 57
+- 🧮 CodeChef: 2★ | Max Rating: 1466 | Global Rank: 35K+
+- 📚 Academics: Consistently secured 8+ CGPA in 3 semesters and 9+ CGPA in 1 semester
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aTO1AtPZvSFoaNnyQUEq4WBL0Jupi-wW/view?usp=sharing)
 
