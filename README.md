@@ -22,7 +22,7 @@
 - 🧮 CodeChef: 2★ | Max Rating: 1466 | Global Rank: 35K+
 - 📚 Academics: Consistently secured 8+ CGPA in 3 semesters and 9+ CGPA in 1 semester
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aTO1AtPZvSFoaNnyQUEq4WBL0Jupi-wW/view?usp=sharing)
+- 📄 Know about my experiences [Resume]
 
 - ⚡ Fun fact **The fun starts with me!**
 
