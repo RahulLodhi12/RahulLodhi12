@@ -9,7 +9,7 @@
 
 = 🛠️ Tech Stack:
 - Languages: Java, C++, Python, SQL
-- Frameworks: Angular, React
+- Frameworks: Spring, Springboot
 - Tools: VS Code, Postman, GitHub
 - Databases: MySQL
 - Core Subjects: DSA, OOPs, DBMS
