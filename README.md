@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,aws,cpp,git,github,idea,vscode,postman&theme=dark" alt="skills" />
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
