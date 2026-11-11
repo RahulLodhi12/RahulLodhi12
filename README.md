@@ -114,6 +114,6 @@
 <a href="https://www.codechef.com/users/rahul_lodhi"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 <a href="https://drive.google.com/file/d/1yWEJrFF0Dgp39yKXoyeXqGRCKHjYyxRG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
-<br/><br/>
+<!-- <br/><br/> -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" /> -->
 </div>
