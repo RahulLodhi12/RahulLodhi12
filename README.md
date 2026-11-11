@@ -89,10 +89,10 @@
 
 <img src="https://streak-stats.demolab.com?user=rahullodhi12&theme=tokyonight&hide_border=true" alt="streak" />
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <a href="https://github.com/rahullodhi12?tab=followers"><img src="https://img.shields.io/github/followers/rahullodhi12?style=for-the-badge&logo=github&label=Followers&color=203a43" alt="followers" /></a>
-<a href="https://github.com/rahullodhi12?tab=repositories"><img src="https://img.shields.io/badge/Java-Top%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="top language" /></a>
+<a href="https://github.com/rahullodhi12?tab=repositories"><img src="https://img.shields.io/badge/repositories-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="repositories" /></a>
 
 <!-- Optional: uncomment after setting up the metrics GitHub Action (see chat)
 <br/><br/>
