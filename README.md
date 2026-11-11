@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Lodhi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AWS%20Certified&descAlignY=58&descSize=20" width="100%" alt="header" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Lodhi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AWS%20Certified&descAlignY=58&descSize=20" width="100%" alt="header" /> -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=45&lines=Building+Java+and+Spring+Boot+services+for+a+global+bank+%F0%9F%8F%A6;Cut+API+response+time+by+75-80%25+%E2%9A%A1;500%2B+DSA+problems+%7C+CodingNinjas+Max+2914+%F0%9F%A7%A0;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+to+SDE+opportunities+at+product+companies+%F0%9F%9A%80" alt="Typing SVG" />
