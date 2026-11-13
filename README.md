@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Lodhi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AWS%20Certified&descAlignY=58&descSize=20" width="100%" alt="header" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rahul%20Lodhi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20AWS%20Certified&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&height=45&lines=Building+Java+and+Spring+Boot+services+for+a+global+bank+%F0%9F%8F%A6;Cut+API+response+time+by+75-80%25+%E2%9A%A1;500%2B+DSA+problems+%7C+CodingNinjas+Max+2914+%F0%9F%A7%A0;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Open+to+SDE+opportunities+at+product+companies+%F0%9F%9A%80" alt="Typing SVG" />
@@ -34,7 +34,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,aws,cpp,git,github,idea,vscode,postman&theme=dark" alt="skills" />
 
-<br/>
+<br/><br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -87,12 +87,21 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahullodhi12&theme=tokyonight&hide_border=true" alt="streak" />
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://ghchart.rshah.org/00b4d8/rahullodhi12" width="520" alt="Rahul's GitHub contribution heatmap" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com?user=rahullodhi12&theme=tokyonight&hide_border=true" width="420" alt="streak" />
+    </td>
+  </tr>
+</table>
 
-<!-- <br/><br/> -->
+<br/><br/>
 
 <a href="https://github.com/rahullodhi12?tab=followers"><img src="https://img.shields.io/github/followers/rahullodhi12?style=for-the-badge&logo=github&label=Followers&color=203a43" alt="followers" /></a>
-<a href="https://github.com/rahullodhi12?tab=repositories"><img src="https://img.shields.io/badge/repositories-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="repositories" /></a>
+<a href="https://github.com/rahullodhi12?tab=repositories"><img src="https://img.shields.io/badge/Java-Top%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="top language" /></a>
 
 <!-- Optional: uncomment after setting up the metrics GitHub Action (see chat)
 <br/><br/>
@@ -114,6 +123,10 @@
 <a href="https://www.codechef.com/users/rahul_lodhi"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 <a href="https://drive.google.com/file/d/1yWEJrFF0Dgp39yKXoyeXqGRCKHjYyxRG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 
-<!-- <br/><br/> -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" /> -->
+<br/><br/>
+
+⚡ *Fun fact: the fun starts with me!* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+
 </div>
