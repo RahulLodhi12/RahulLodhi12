@@ -90,7 +90,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="./heatmap.svg" width="400" alt="Rahul's GitHub contributions, last 4 months" />
+      <img src="https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev/" width="400" alt="Rahul's GitHub contributions, last 4 months" />
     </td>
     <td align="center" valign="middle">
       <img src="https://streak-stats.demolab.com?user=rahullodhi12&theme=tokyonight&hide_border=true" width="420" alt="streak" />
