@@ -90,7 +90,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://ghchart.rshah.org/00b4d8/rahullodhi12" width="520" alt="Rahul's GitHub contribution heatmap" />
+      <img src="./heatmap.svg" width="400" alt="Rahul's GitHub contributions, last 4 months" />
     </td>
     <td align="center" valign="middle">
       <img src="https://streak-stats.demolab.com?user=rahullodhi12&theme=tokyonight&hide_border=true" width="420" alt="streak" />
